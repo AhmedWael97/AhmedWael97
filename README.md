@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Wael Ezzeldin 👋
 
 ## 🚀 About Me
-Senior Full Stack Web Developer with **7+ years of experience** architecting scalable web solutions and ERP systems. Expert in PHP (Laravel ecosystem) and JavaScript (React.js, Vue.js) stacks. Proven track record leading distributed teams for international clients in Canada and Saudi Arabia. Specialized in building high-availability government investment platforms and custom ERPs.
+Senior Full Stack Web Developer with **7+ years of experience** architecting scalable web solutions and ERP systems. Expert in PHP (Laravel ecosystem) and Node js stacks. Proven track record leading distributed teams for international clients in Canada and Saudi Arabia. Specialized in building high-availability government investment platforms and custom ERPs.
 
 📍 **Location:** Cairo, Egypt (Open to Remote)  
 🎓 **Education:** B.Sc. in Computer Science - Helwan University (2021)  
@@ -19,7 +19,7 @@ Senior Full Stack Web Developer with **7+ years of experience** architecting sca
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
