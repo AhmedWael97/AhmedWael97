@@ -1,96 +1,87 @@
-# Hi there, I'm Ahmed Wael Ezzeldin 👋
+# Hi there, I'm Ahmed Wael Ezzeldine 👋
 
 ## 🚀 About Me
-Senior Full Stack Web Developer with **7+ years of experience** architecting scalable web solutions and ERP systems. Expert in PHP (Laravel ecosystem) and Node js stacks. Proven track record leading distributed teams for international clients in Canada and Saudi Arabia. Specialized in building high-availability government investment platforms and custom ERPs.
+Senior Software Engineer with **7 years of experience** specializing in **C#, .NET Core, and Microservices architecture**. Proven track record designing scalable, high-concurrency systems, optimizing SQL databases, and engineering secure RESTful APIs. Expert in Clean Architecture, SOLID, TDD, and DDD within Agile CI/CD environments.
 
-📍 **Location:** Cairo, Egypt (Open to Remote)  
-🎓 **Education:** B.Sc. in Computer Science - Helwan University (2021)  
-💼 **Current Role:** Senior Software Developer @ ETK Technology, Canada
+📍 **Location:** Egypt (Open to Remote)  
+🎓 **Education:** B.Sc. in Computer Science - Faculty of Computer Science & Artificial Intelligence, Helwan University (2021)  
+💼 **Current Role:** Senior Software Developer @ Peithon Technologies, Cyprus (Remote)
 
 ## 💻 Tech Stack
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/-Filament-FFAA00?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+### Backend & APIs
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT_/_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-0A66C2?style=flat-square&logoColor=white)
+
+### Databases & Caching
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Architecture
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-0A66C2?style=flat-square&logoColor=white)
+![SOLID](https://img.shields.io/badge/-SOLID-555555?style=flat-square&logoColor=white)
+![DDD](https://img.shields.io/badge/-DDD-6A1B9A?style=flat-square&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-2E7D32?style=flat-square&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/-Event--Driven-EF6C00?style=flat-square&logoColor=white)
+
+### Data & Cloud
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git_CI/CD-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 📪 Email: ahmed.wael0100166@gmail.com
-- 📱 Phone: (+02) 0100 95 69092
-- 💼 LinkedIn: [Ahmed Wael Ezzeldin](https://www.linkedin.com/in/ahmedwael1997/)
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/AhmedWael97)
-- 🌍 Languages: Arabic (Native), English (Professional6791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-239120?style=flat-square&logo=github-actions&logoColor=white)
+### Artificial Intelligence
+![RAG](https://img.shields.io/badge/-RAG-8E24AA?style=flat-square&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-00897B?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-3949AB?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-Autonomous_AI_Agents-D81B60?style=flat-square&logoColor=white)
 
 ## 💼 Professional Experience
 
-### 🔹 ETK Technology | Canada (Remote)
-**Senior Software Developer** | Present
-- Leading full-cycle development of web applications for international clients using React.js
-- Integrating complex APIs and third-party services to enhance application capabilities
-- Collaborating with cross-functional distributed teams
+### 🔹 Peithon Technologies | Cyprus (Remote)
+**Senior Software Developer** | May 2026 – Present
+- Leading **3 full-stack developers** to build high-performance security solutions
+- Assisting **SOC analysis** and **CISO teams** to develop monitoring platforms and GRC assistant apps
+- Engineering systems with direct API integrations, **Retrieval-Augmented Generation (RAG)**, and **Model Context Protocol (MCP)** clients using the JSON-RPC protocol
+
+### 🔹 Rocky Health | Canada (Remote)
+**Senior Software Developer** | Sep 2024 – May 2026
+- Architected scalable **C#/.NET Core microservices** and **SQL Server** databases using Entity Framework Core, enforcing Clean Architecture and SOLID principles across Agile sprints
+- Optimized secure FinTech integrations (**Stripe, Bambora**) and implemented queuing (**RabbitMQ**) and caching (**Redis**), **reducing server response times by 40%**
 
 ### 🔹 Hafar Albatin Municipality | Saudi Arabia
-**Senior Full Stack Web Developer** | Oct 2023 – Sep 2024
-- Managed and enhanced the Municipal Investment System, ensuring high availability
-- Developed custom reporting modules and automated features
-- Led integration of biometric hardware and electronic wallet payment solutions
+**Senior Full Stack Developer** | Oct 2023 – Sep 2024
+- Designed C#/.NET Core backend infrastructure with **AWS load balancing** for an investment system supporting **10,000+ daily concurrent users** at **99.9% uptime**
+- Engineered secure REST APIs (JWT/OAuth2) for biometric hardware and electronic wallet payments, aligned with financial security compliance and TDD workflows
 
-### 🔹 New Vision | Saudi Arabia (Remote)
-**Full Stack Web Developer** | Jun 2023 – Oct 2023
-- Built and maintained web solutions for business management
-- Led UI/UX improvements using React and Vue.js
+### 🔹 New Vision | Saudi Arabia
+**Mid-Senior Full Stack Developer** | Jun 2023 – Oct 2023
+- Architected **DDD-based** backend modules and API integrations for enterprise **ERP/CRM/POS** systems
+- Optimized MySQL/PostgreSQL databases with complex queries and indexing for high-volume efficiency
 
-### 🔹 ELWATANYA Road Construction | Egypt
-**Software Developer** | Jun 2022 – Jun 2023 (Military Service)
-- Enhanced internal project management software in high-security environment
-
-## 🚀 Featured Projects
-
-### SenUeg (Senu App)
-City guide for Capital Gardens City with real-time service mapping
-
-### ERP & CRM Solutions
-Custom modules optimized for HR operations and business process management
-- **ERP PRO** - Enterprise Resource Planning
-- **CRM System** - Customer Relationship Management
-- **POS System** - Point of Sale Solution
-
-### eCommerce Platforms
-Multi-vendor platforms with payment integrations:
-- Abubijad
-- Maison de Nadia
-- Mawten
-- Saaid
-
-### Web Applications
-- Garabt
-- Khebratak
-- BrandMarks
-- Devora
-- Mied
+### 🔹 Smart Geeks for Web Solutions | Egypt
+**Full Stack Developer** | Jun 2019 – May 2023
+- Delivered scalable MVC backends, Object-Oriented APIs, and optimized relational databases for **15+ SME clients**
 
 ## 🔭 Current Focus
-- 🌱 Building scalable web applications for international clients
-- 👯 Leading distributed development teams
-- 💬 Expert in Laravel, React.js, Vue.js, and ERP systems
-- 🔧 Specializing in system architecture and API integration
+- 🔐 Building security and monitoring platforms for SOC and CISO teams
+- 🤖 Engineering AI-powered systems with RAG and MCP clients
+- 👥 Leading a team of full-stack developers
+- 🏗️ Designing scalable, high-concurrency microservices
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedWael97&show_icons=true&theme=radical)
@@ -102,11 +93,12 @@ Multi-vendor platforms with payment integrations:
 
 ## 📫 How to Reach Me
 - 📧 Email: ahmed.wael010166@gmail.com
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ahmedwael1997/)
-
+- 📱 Phone: (+02) 0100 95 69092
+- 💼 LinkedIn: [Ahmed Wael Ezzeldine](https://www.linkedin.com/in/AhmedWael1997)
+- 🐙 GitHub: [AhmedWael97](https://github.com/AhmedWael97)
 
 ## 📈 Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/AhmedWael97/count.svg)
 
 ---
-⭐️ From [Ahmed Wael Ezzeldin](https://github.com/YourGitHubUsername)
+⭐️ From [Ahmed Wael Ezzeldine](https://github.com/AhmedWael97)
